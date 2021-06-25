@@ -3,7 +3,7 @@
 
 A modification of Flappy Bird, built using [PyGame](https://www.pygame.org/), with additional comments and customized graphics. Built in one day!
 
-![app demo](/1_game/demo.gif)
+![app demo](/demo.gif)
 
 
 ## Installation
